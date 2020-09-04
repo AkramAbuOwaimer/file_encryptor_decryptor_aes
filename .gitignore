@@ -54,6 +54,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+my_salt.txt
 
 # Django stuff:
 *.log
